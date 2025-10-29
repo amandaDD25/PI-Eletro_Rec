@@ -1,7 +1,7 @@
 <div align="center">
 
 # PI Eletro REC
-#### A digital system for scheduling recyclable material pickup
+#### A digital system for scheduling recyclable material pickups
 
 </div>
 
