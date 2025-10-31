@@ -17,9 +17,9 @@ The system promotes sustainability, social inclusion, and technological innovati
 
 - Cid José Espíndola Filho - Scrum Master
 - Maria Amanda Ferreira de Almeida - Design
-- Guilherme Freitas Pinheiros – Front-End
-- Matheus de Araújo Martins – Designer UI/UX
-- Carlos William Macedo da Silva – BackEnd
+- Guilherme Freitas Pinheiros - FrontEnd
+- Matheus de Araújo Martins - Designer UI/UX
+- Carlos William Macedo da Silva - BackEnd
 
 ## Technologies Used 
 
@@ -37,6 +37,8 @@ The system promotes sustainability, social inclusion, and technological innovati
 
 ## How to use 
 
-1. Install the app from a virtual store (Google Play, App Store)
+1. Install the app from a virtual store ([Google Play](https://play.google.com/store/apps), [App Store](https://www.apple.com/br/app-store/))
 2. Create your account
 3. Start using
+    - Schedule material pickups
+    - Check recycling stats
